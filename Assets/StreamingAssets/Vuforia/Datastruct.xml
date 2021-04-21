@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="SingleLinkedList" size="1.000000 0.196232" />
+    <ImageTarget name="Queue" size="10.000000 6.629213" />
+    <ImageTarget name="Traversal" size="10.000000 8.655805" />
+    <ImageTarget name="DFS" size="10.000000 6.239669" />
+    <ImageTarget name="SingleList" size="10.000000 1.621160" />
+    <ImageTarget name="NodeInsert" size="10.000000 7.426273" />
+    <ImageTarget name="LinkedList" size="10.000000 1.947195" />
+  </Tracking>
+</QCARConfig>
